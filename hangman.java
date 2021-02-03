@@ -48,7 +48,6 @@ public class Hangman {
       keyboard = new Scanner(System.in);
       System.out.println("Welcome to CS 139 -- Word Guess!!\n");
 
-      // outer loop: play the game again?
       do {
          word = words.getWord();
          guessCount = 0;
