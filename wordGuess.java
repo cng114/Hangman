@@ -1,8 +1,5 @@
- /**
+ /*
   * This class has the tools to play a game of Hangman (WordGuess)
-  *
-  * @author Chloe Ng
-  * @version - 09/17/2020
   */
  public class WordGuess
  {
